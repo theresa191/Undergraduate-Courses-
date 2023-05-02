@@ -1,0 +1,76 @@
+*,*::before,*::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+.bg1{
+    width: 2000px;
+    height: 300px;
+    object-fit: cover;
+    padding-bottom: 10px;
+    padding-bottom: 10px;
+    opacity: 0.4;
+
+}
+.title{
+    position: absolute;
+    text-align: center;
+    top: 125px;
+    left: 325px;
+    font-size: 50px;
+}
+.abc{
+    font-size:30px ;
+}
+.discription{
+    width:200px;
+    height: 300px;
+}
+
+.name{
+    font-size:30px;
+    text-align: center;
+
+    display: inline-block;
+    margin-bottom: 34px;
+
+}
+.name1{
+    font-size:30px;
+    text-align: left;
+width: 250px;
+    display: inline-block;
+    
+
+}
+
+.button{
+    display: inline-block;
+}
+.courses{
+    width:2000px;
+    display: inline-block; 
+}
+.programming{
+    vertical-align: top;
+    display: inline-block;
+    margin-right: 100px;
+    margin-left: 170px;
+}
+.Datab{
+    vertical-align: top;
+    display: inline-block;
+    margin-right: 100px;
+
+}
+.systems{
+    vertical-align: top;
+    display: inline-block;
+    margin-right: 100px;
+
+}
+.networking{
+    display: inline-block;
+    margin-right: 100px;
+
+}
